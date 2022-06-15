@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- App list for whyPhoneOS 1 !-->
+<xml>
+    <installList>
+        <pure>
+        <!-- Pure is a subset to have a set of application replacements equivalent to the base system (iPhoneOS 1) !-->
+            <wPhone>
+                <appList=
+                "Text"
+                "Calendar"
+                "Photos"
+                "Camera"
+                "Online video"
+                "Stocks"
+                "Maps"
+                "Weather"
+                "Clock"
+                "Calculator"
+                "Notes"
+                "Settings"
+                "wTunes"
+                "Phone"
+                "Mail"
+                "Savannah"
+                "wPod"
+                >
+            </wPhone>
+            <wPod>
+                <appList=
+                "Calendar"
+                "Photos"
+                "Online video"
+                "Stocks"
+                "Maps"
+                "Weather"
+                "Clock"
+                "Calculator"
+                "Notes"
+                "Settings"
+                "wTunes"
+                "Music"
+                "Videos"
+                "Mail"
+                "Savannah"
+                >
+            </wPod>          
+        </pure>
+    </installList>
+</xml>
+<!-- Base notes
+Text (iPhone only)
+Calendar
+Photos
+Camera (iPhone only)
+YouTube (replaced with Online Video)
+Stocks
+Maps
+Weather
+Clock
+Calculator
+Notes
+Settings
+iTunes (replaced with wTunes)
+Phone (iPhone only)
+Music (iPod Touch exclusive)
+Videos (iPod Touch exclusive)
+Mail
+Safari (replaced with Savannah)
+iPod (iPhone only) (replaced with wPod)
+!-->
+<!-- File info
+File type: XML document (*.xml)
+File version: 1 (2022, Tuesday, June 14th at 7:06 pm PST)
+Line count (including blank lines and compiler line): 76
+!-->
